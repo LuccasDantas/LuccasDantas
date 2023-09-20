@@ -11,10 +11,10 @@
 
 <div align="center">
   <a href="https://github.com/luccasdantas/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luccasdantas&hide=stars,contribs&show_icons=true&theme=moltack&include_all_commits&line_height=26">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luccasdantas&hide=stars,contribs&show_icons=true&theme=moltack&include_all_commits&line_height=26&count_private=true">
   </a>
-  
 </div>
+
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasdantas&hide=stars,contribs&show_icons=true&theme=vue-dark)](https://github.com/luccasdantas/github-readme-stats) / Guardar este tema -->
 
