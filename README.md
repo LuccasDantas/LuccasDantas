@@ -2,8 +2,8 @@
 
 ## Oi! Eu sou o Luccas Octávio 👋
 - 🔭 Hoje estou estagiando com backend
-- 🌱 Estudando JavaScript e Python
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando Node.js, SQL e API's
+- 🎯 FOCO!
 
 </div>
 
@@ -26,9 +26,10 @@
 
 
 <div style="display: inline_block"><br>
-      <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+      <img align="center" alt="NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img align="center" alt="API" height="40" width="50" src="https://img.icons8.com/ios-filled/50/000000/api.png">
+</div>
 
 ##
 <div>
