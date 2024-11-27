@@ -1,7 +1,7 @@
 <div align="left">
 
 ## Oi! Eu sou o Luccas Octávio 👋
-- 🔭 Hoje estou estagiando com backend
+- 🧑🏽‍💻 Hoje estou estagiando com backend
 - 🌱 Estudando Node.js, SQL e API's
 - 🎯 FOCO!
 
